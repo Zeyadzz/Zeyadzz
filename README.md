@@ -52,7 +52,7 @@ My interests span the digital hardware development flow — from **RTL design an
 
 ## 🚀 Selected Technical Work
 
-### 🔹 [RISC-V ASIC Design & Verification](https://github.com/Zeyadzz/riscv-asic-design-verification)
+### 🔹 [RISC-V ASIC Design & Verification](https://github.com/Zeyadzz/riscv-asic-design)
 
 End-to-end digital ASIC project covering the implementation and verification of a **RISC-V-based system**, from RTL through physical design and test.
 
