@@ -4,9 +4,9 @@
 
 Electronics Engineer focused on **digital integrated circuit design, hardware verification, FPGA acceleration, and computer architecture**.
 
-I am currently preparing to pursue an **M.Sc. in Nanoelectronic Systems at TU Dresden**, where I plan to focus primarily on the **digital IC / ASIC design and verification track**.
+I am preparing to pursue an **M.Sc. in Nanoelectronic Systems at TU Dresden**, with a primary interest in **digital IC, ASIC design, and hardware verification**.
 
-My interests span the complete digital hardware development flow — from **RTL design and verification** to **synthesis, physical implementation, FPGA prototyping, and hardware-software co-design**.
+My interests span the digital hardware development flow — from **RTL design and verification** to **synthesis, physical implementation, FPGA prototyping, and hardware/software co-design**.
 
 ---
 
@@ -28,18 +28,11 @@ My interests span the complete digital hardware development flow — from **RTL 
 
 ### Hardware Description & Verification
 
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-RTL%20%26%20Verification-blue)
-![Verilog](https://img.shields.io/badge/Verilog-RTL-blue)
-![VHDL](https://img.shields.io/badge/VHDL-FPGA-blue)
-![UVM](https://img.shields.io/badge/UVM-Verification-blue)
-
 **SystemVerilog • Verilog • VHDL • UVM • Assertions • Formal Verification**
 
 ### ASIC & Digital Design
 
 **RTL Design • Logic Synthesis • Static Timing Analysis • DFT • Place & Route • DRC/LVS**
-
-Tools and technologies:
 
 `OpenROAD` `Yosys` `SKY130` `SymbiYosys` `QuestaSim` `Magic` `KLayout`
 
@@ -92,9 +85,10 @@ Designed and implemented hardware acceleration for **CNN inference on FPGA**, fo
 
 Implemented a CNN-based **keyword spotting system on a Xilinx Zynq SoC**, combining software execution on the ARM processing system with a custom accelerator in programmable logic.
 
-**Key areas:** Zynq SoC • Verilog • AXI • Vivado • Vitis • Embedded C • Hardware/Software Co-design
+**Key areas:** Zynq SoC • Verilog • AXI • Vivado • Vitis • Embedded C • Hardware/Software Co-Design
 
 ---
+
 ## 📚 Publications
 
 ### [Hardware Trojan Insertion and Detection in Chiplet-Based Architectures](https://doi.org/10.1109/ICM66518.2025.11322457)
@@ -123,17 +117,17 @@ Contributed to the **hardware realization and FPGA implementation** of the propo
 
 ## 🎓 Education
 
-### Electronics Engineering
+### B.Sc. Electronics Engineering
 
 **German University in Cairo**
 
-Focus areas included digital design, FPGA systems, computer architecture, embedded systems and hardware acceleration.
+Focus areas: **Digital Design • FPGA Systems • Computer Architecture • Embedded Systems • Hardware Acceleration**
 
 ---
 
 ## 🎯 Current Focus
 
-I am currently strengthening my expertise in:
+Currently strengthening my expertise across the digital ASIC development flow:
 
 ```text
 RTL Design
@@ -149,29 +143,13 @@ ASIC Physical Design
 SoC / Digital IC Development
 ```
 
-My long-term goal is to work on advanced **digital ASIC, SoC, RTL design or hardware verification** systems in the semiconductor industry.
-
----
-
-## 📌 Featured Projects
-
-Some of my current and upcoming repositories cover:
-
-* ASIC RTL-to-GDS design flows
-* RISC-V and hardware accelerators
-* UVM verification environments
-* Formal verification
-* FPGA CNN acceleration
-* FPGA image compression
-* Hardware security
-* Computer architecture simulation
+Long-term interests include **digital ASIC design, SoC development, RTL design, hardware verification, and computer architecture** within the semiconductor industry.
 
 ---
 
 ## 📫 Connect
 
-**LinkedIn:** https://www.linkedin.com/in/zeyad-rashed-59a1071b0/
-**Email:** zeyad.rashed2003@gmail.com
+[LinkedIn](https://www.linkedin.com/in/zeyad-rashed-59a1071b0/) • [Email](mailto:zeyad.rashed2003@gmail.com)
 
 ---
 
