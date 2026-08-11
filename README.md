@@ -59,70 +59,48 @@ Tools and technologies:
 
 ## 🚀 Selected Technical Work
 
-### 🔹 Digital ASIC Design & Verification
+### 🔹 [RISC-V ASIC Design & Verification](https://github.com/Zeyadzz/lab_sessions/tree/main/Project)
 
-Worked across a complete digital IC development flow including:
+End-to-end digital ASIC project covering the implementation and verification of a **RISC-V-based system**, from RTL through physical design and test.
 
-* RTL design in SystemVerilog
-* Functional simulation
-* SystemVerilog Assertions
-* Formal verification
-* UVM-based verification
-* Logic synthesis
-* Static timing and power analysis
-* ASIC floorplanning, placement and routing
-* Clock tree synthesis
-* DRC and LVS
-* Design-for-Test and scan insertion
+**Flow:**
+`RTL Design` → `UVM Verification` → `Formal Verification` → `Synthesis` → `Physical Design` → `DFT`
 
-Technologies include **SystemVerilog, UVM, Yosys, OpenROAD and the SKY130 PDK**.
+**Key areas:** SystemVerilog • UVM • Formal Verification • Logic Synthesis • OpenROAD • SKY130 • Place & Route • DFT
 
 ---
 
-### 🔹 FPGA CNN Hardware Acceleration
+### 🔹 [gem5 + SystemC Architecture & Interconnect Modeling](https://github.com/Zeyadzz/AML/tree/main/gem5_proj)
 
-Designed and implemented FPGA-based hardware acceleration for neural-network inference on a **Xilinx Zynq SoC**.
+Computer architecture simulation project integrating **gem5 with SystemC/TLM** to model accelerator communication and evaluate different system interconnect approaches.
 
-The work included:
+The project includes custom **PCIe and UCIe endpoint models**, TLM-based communication, workload generation, accelerator components, and simulation infrastructure for architectural comparison.
 
-* Custom hardware accelerator architecture
-* Fixed-point / quantized computation
-* Parallel multiply-accumulate datapaths
-* AXI-based communication between Processing System and Programmable Logic
-* Hardware/software partitioning
-* Vivado and Vitis implementation
+**Key areas:** gem5 • SystemC • TLM • Computer Architecture • PCIe • UCIe • Hardware Accelerators • Python • C++
 
 ---
 
-### 🔹 RISC-V & Hardware Acceleration
+### 🔹 CNN Hardware Acceleration on FPGA
 
-Explored digital hardware architectures combining **RISC-V processing and dedicated acceleration hardware**, including RTL implementation, verification and ASIC implementation flows.
+Designed and implemented hardware acceleration for **CNN inference on FPGA**, focusing on parallel computation and efficient hardware implementation.
 
----
-
-### 🔹 FPGA Image Compression
-
-Implemented a real-time **LZ77 image compression and decompression system using FPGAs**, including:
-
-* VHDL-based hardware design
-* Compression and decompression engines
-* UART communication
-* VGA output
-* FPGA-to-FPGA communication
-* Python/MATLAB-based supporting workflows
+**Key areas:** FPGA • CNN Acceleration • Parallel MAC Architecture • Fixed-Point Arithmetic • Hardware/Software Co-Design
 
 ---
 
-## 🔐 Research Interests
+### 🔹 Keyword Spotting Accelerator on Zynq SoC
 
-I am also interested in **hardware security and secure computer architectures**, particularly:
+Implemented a CNN-based **keyword spotting system on a Xilinx Zynq SoC**, combining software execution on the ARM processing system with a custom accelerator in programmable logic.
 
-* Hardware Trojans
-* Chiplet-based systems
-* FPGA security
-* Secure hardware architectures
+**Key areas:** Zynq SoC • Verilog • AXI • Vivado • Vitis • Embedded C • Hardware/Software Co-design
 
-My academic work has included research involving **hardware Trojan insertion and detection in chiplet-based architectures** and FPGA-based hardware implementations.
+---
+
+### 🔹 Hardware Security & Chiplet Architectures
+
+Research work focused on **hardware security in chiplet-based systems**, including hardware Trojan insertion and detection methodologies.
+
+**Key areas:** Hardware Security • Chiplets • Hardware Trojans • FPGA/RTL • Secure Architectures
 
 ---
 
