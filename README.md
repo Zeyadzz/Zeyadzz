@@ -63,7 +63,7 @@ End-to-end digital ASIC project covering the implementation and verification of 
 
 ---
 
-### 🔹 [gem5 + SystemC Architecture & Interconnect Modeling](https://github.com/Zeyadzz/gem5-pcie-ucie-systemc-modeling)
+### 🔹 [PCIe vs UCIe Accelerator Interconnect Modeling with gem5 and SystemC](https://github.com/Zeyadzz/gem5-pcie-ucie-systemc-modeling)
 
 Computer architecture simulation project integrating **gem5 with SystemC/TLM** to model accelerator communication and evaluate different system interconnect approaches.
 
