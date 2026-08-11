@@ -95,14 +95,6 @@ Implemented a CNN-based **keyword spotting system on a Xilinx Zynq SoC**, combin
 **Key areas:** Zynq SoC • Verilog • AXI • Vivado • Vitis • Embedded C • Hardware/Software Co-design
 
 ---
-
-### 🔹 Hardware Security & Chiplet Architectures
-
-Research work focused on **hardware security in chiplet-based systems**, including hardware Trojan insertion and detection methodologies.
-
-**Key areas:** Hardware Security • Chiplets • Hardware Trojans • FPGA/RTL • Secure Architectures
-
----
 ## 📚 Publications
 
 ### [Hardware Trojan Insertion and Detection in Chiplet-Based Architectures](https://doi.org/10.1109/ICM66518.2025.11322457)
