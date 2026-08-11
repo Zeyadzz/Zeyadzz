@@ -103,6 +103,31 @@ Research work focused on **hardware security in chiplet-based systems**, includi
 **Key areas:** Hardware Security • Chiplets • Hardware Trojans • FPGA/RTL • Secure Architectures
 
 ---
+## 📚 Publications
+
+### [Hardware Trojan Insertion and Detection in Chiplet-Based Architectures](https://doi.org/10.1109/ICM66518.2025.11322457)
+
+**Zeyad Rashed et al.**
+*IEEE International Conference on Microelectronics (ICM), 2025*
+**First Author**
+
+Research on hardware-security threats in **chiplet-based architectures**, focusing on hardware Trojan insertion and detection techniques.
+
+**Topics:** Hardware Security • Chiplets • Hardware Trojans • Secure Architectures
+
+---
+
+### [FPGA-Based Real-Time Implementation of a Multi-Staged Hyperchaotic Image Encryption Algorithm](https://doi.org/10.23919/SPA65537.2025.11215081)
+
+**Zeyad Rashed et al.**
+*IEEE Signal Processing: Algorithms, Architectures, Arrangements, and Applications (SPA), 2025*
+**Co-Author — Hardware Realization Contribution**
+
+Contributed to the **hardware realization and FPGA implementation** of the proposed multi-stage hyperchaotic image-encryption system.
+
+**Topics:** FPGA • Hardware Implementation • Digital Design • Hardware Acceleration • Image Encryption
+
+---
 
 ## 🎓 Education
 
